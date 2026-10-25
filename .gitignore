@@ -1,0 +1,4 @@
+WORKLOG.md
+.env
+__pycache__/
+.venv/
