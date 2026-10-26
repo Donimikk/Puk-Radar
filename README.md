@@ -5,7 +5,7 @@ Slovak players, from U18 juniors to the NHL. A user signs in, adds any number of
 sees how each of them did in their last game, with a per-game rating, recent form and
 long-term development.
 
-Status: research done, nothing built yet.
+Status: research done, MVP spec written ([SPEC.md](SPEC.md)), nothing built yet.
 
 ## Data approach
 - **Player catalogue:** Elite Prospects tells where a player currently plays (team, league, loans, transfers).
