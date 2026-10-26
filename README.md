@@ -22,4 +22,4 @@ A single 1–10 number per game: Game Score from the inputs a league provides, t
 percentile within the league and position.
 
 Project notes and the full source research live in the private `dominik-hub` repo
-(`projects/puk-radar.md`, `research/puk-radar-zdroje.md`).
+(`projects/Puk-Radar.md`, `research/puk-radar-zdroje.md`).
